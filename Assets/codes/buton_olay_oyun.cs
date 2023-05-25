@@ -35,11 +35,4 @@ public class buton_olay_oyun : MonoBehaviour
 
         Time.timeScale = 1f;
     }
-
-   
-    void Update()
-    {
-        
-
-    }
 }
