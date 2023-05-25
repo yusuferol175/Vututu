@@ -19,14 +19,4 @@ public class teker_sc : MonoBehaviour
             asd.sizeDelta = new Vector2(artan_yakit, asd.sizeDelta.y);
         }
     }
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
