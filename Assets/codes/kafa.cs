@@ -56,10 +56,4 @@ public class kafa : MonoBehaviour
             cay_al_but.SetActive(false);
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
