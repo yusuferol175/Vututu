@@ -162,10 +162,4 @@ public class menu_but_olay : MonoBehaviour
 
         cay_miktar.text = "= "+PlayerPrefs.GetInt("cay_sayi").ToString();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
